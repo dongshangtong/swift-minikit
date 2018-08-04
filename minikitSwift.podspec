@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "minikitSwift"
-  s.version      = "1.0.5"
+  s.version      = "1.0.6"
   s.swift_version ="4.0"
   s.summary      = "Swift 常用的一些工具或base类 封装成,组件化, miniKit."
   s.description  = <<-DESC
@@ -20,9 +20,9 @@ Pod::Spec.new do |s|
   s.source_files  = "minikit", "minikit/**/*"
 
 
-   s.subspec 'MNBase' do |sb|
-    sb.source_files  = 'minikit/MNBase/*.swift'
-  end
+  # s.subspec 'MNBase' do |sb|
+  #  sb.source_files  = 'minikit/MNBase/*.swift'
+  #end
 
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
