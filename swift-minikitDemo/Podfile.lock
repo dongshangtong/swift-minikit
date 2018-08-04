@@ -1,0 +1,16 @@
+PODS:
+  - swift-minikit (1.0.0)
+
+DEPENDENCIES:
+  - swift-minikit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - swift-minikit
+
+SPEC CHECKSUMS:
+  swift-minikit: 61874aa4ed6ae3154aaa7632531fb2e06202de06
+
+PODFILE CHECKSUM: dbeb099e6f7b6602ba46a9ebf2f8b25162f1e4df
+
+COCOAPODS: 1.5.3

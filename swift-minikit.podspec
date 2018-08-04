@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "swift-minikit"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.swift_version ="4.0"
   s.summary      = "Swift 常用的一些工具或base类 封装成,组件化, miniKit."
   s.description  = <<-DESC
@@ -17,6 +17,10 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "10.0"
   s.source       = { :git => "https://github.com/dongshangtong/swift-minikit.git", :tag => "#{s.version}" }
   s.source_files  = "minikit", "minikit/**/*.swift"
+
+   s.subspec 'MNBase' do |sp|
+    sp.source_files  = 'minikit/MNBase/*.swift'
+  end
 
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
