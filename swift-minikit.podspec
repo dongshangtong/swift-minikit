@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "10.0"
   s.source       = { :git => "https://github.com/dongshangtong/swift-minikit.git", :tag => "#{s.version}" }
   
-  s.source_files  = "minikit", "minikit/**/*"
+  #s.source_files  = "minikit", "minikit/**/*"
 
 
    s.subspec 'MNBase' do |sb|
