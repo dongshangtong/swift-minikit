@@ -4,5 +4,6 @@ target 'swift-minikitDemo' do
   use_frameworks!
 
   pod 'swift-minikit'
+# pod 'SwifterSwift'
 
 end
