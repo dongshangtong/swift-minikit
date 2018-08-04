@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "swift-minikit"
-  s.version      = "1.0.1"
+  s.version      = "1.0.3"
   s.swift_version ="4.0"
   s.summary      = "Swift 常用的一些工具或base类 封装成,组件化, miniKit."
   s.description  = <<-DESC
