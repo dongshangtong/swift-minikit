@@ -1,7 +1,7 @@
 PODS:
-  - swift-minikit (1.0.1):
-    - swift-minikit/MNBase (= 1.0.1)
-  - swift-minikit/MNBase (1.0.1)
+  - swift-minikit (1.0.3):
+    - swift-minikit/MNBase (= 1.0.3)
+  - swift-minikit/MNBase (1.0.3)
 
 DEPENDENCIES:
   - swift-minikit
@@ -11,8 +11,8 @@ SPEC REPOS:
     - swift-minikit
 
 SPEC CHECKSUMS:
-  swift-minikit: b3d7d4dc89467aee3684d6be4afd8c9ff479068c
+  swift-minikit: a8fe1c5bb9075213a12ea0d3818328938eaa49a0
 
-PODFILE CHECKSUM: 617dbac65d06317f60ee86fef4f9dc52d8fb8aab
+PODFILE CHECKSUM: 1f9446eff573ff4d68c4ebf26decf85d7292ffc5
 
 COCOAPODS: 1.5.3
