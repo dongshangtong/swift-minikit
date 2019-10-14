@@ -7,9 +7,9 @@
 //
 
 import UIKit
-//import minikitSwift
+import minikitSwift
 
-class YSModalTopToBomPresentedViewController: UIViewController {
+class YSModalTopToBomPresentedViewController: MNBaseViewController {
 
 //    override func viewDidLoad() {
 //        super.viewDidLoad()

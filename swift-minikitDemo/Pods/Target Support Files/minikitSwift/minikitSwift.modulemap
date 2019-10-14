@@ -1,0 +1,6 @@
+framework module minikitSwift {
+  umbrella header "minikitSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

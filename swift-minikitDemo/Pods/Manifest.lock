@@ -1,3 +1,16 @@
-PODFILE CHECKSUM: 05abe665317d9cb58174ea2541aba6de62260dbd
+PODS:
+  - minikitSwift (1.0.6)
 
-COCOAPODS: 1.5.3
+DEPENDENCIES:
+  - minikitSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - minikitSwift
+
+SPEC CHECKSUMS:
+  minikitSwift: 547c6c75ce21803908e7b20da2329ab21008aa85
+
+PODFILE CHECKSUM: 3528346d8db633bbd1427f63296f36c2c36b8f5b
+
+COCOAPODS: 1.7.5
